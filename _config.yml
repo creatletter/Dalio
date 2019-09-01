@@ -3,8 +3,8 @@ title: 仓颉造字 # 你的博客名字，可以定义修订
 header-img: "img/semantic.jpg"
 tagline: "cn"  
 description: "学习、反思，再学习、再反思——进步"  # 一句话描述你的博客
-baseurl: "/test"
-url: "https://creatletter.github.io/test/"  # 此处填写你的博客地址 
+baseurl: "/Dalio"
+url: "https://creatletter.github.io/Dalio/"  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
