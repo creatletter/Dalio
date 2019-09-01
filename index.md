@@ -27,4 +27,4 @@
  - [走进平安集团](https://mp.weixin.qq.com/s?__biz=MzIxMDI3MDgyMA==&mid=2247485463&idx=1&sn=114617961c71dc764263257c4b5fea02&chksm=9766671ca011ee0a93a6b9239cca32f8c1541e966f7f25c964ab833966e3b17f2e432aeefa8c&mpshare=1&scene=1&srcid=12216TbHQSs3bpuwYF2430MS#rd)
 
 ### 学习
- - [对本科期间考前突击的思考](https://creatletter.github.io/Dalio/blog/2018/11/24/新竹计划流程复盘/)
+ - [对本科期间考前突击的思考](https://creatletter.github.io/Dalio/%E5%AD%A6%E4%B9%A0%E5%A4%8D%E7%9B%98/2019/01/20/%E5%AF%B9%E6%9C%AC%E7%A7%91%E8%80%83%E5%89%8D%E7%AA%81%E5%87%BB%E7%9A%84%E6%80%9D%E8%80%83/)
