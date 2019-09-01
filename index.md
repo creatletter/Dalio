@@ -12,7 +12,7 @@
 
 ### 工作：
 1. 南科大-民生银行“新竹计划”
-- [从零开始:“新竹计划合作项目书”]()
+- [从零开始:“新竹计划合作项目书”](需要添加链接)
 - [闭环：结束后对流程的复盘](https://creatletter.github.io/test/blog/2018/11/24/%E6%96%B0%E7%AB%B9%E8%AE%A1%E5%88%92%E6%B5%81%E7%A8%8B%E5%A4%8D%E7%9B%98/)
 - [顾全大局——新竹计划第二期后的教训](https://creatletter.github.io/test/blog/2018/11/27/%E9%A1%BE%E5%85%A8%E5%A4%A7%E5%B1%80-%E6%96%B0%E7%AB%B9%E8%AE%A1%E5%88%92%E7%AC%AC%E4%BA%8C%E6%9C%9F%E8%AF%BE%E7%A8%8B%E5%A4%8D%E7%9B%98/)
  - 历次推文
@@ -23,7 +23,7 @@
 
 2. 南科大-招商银行职业coach团
 
-- [中期情况汇报]()
+- [中期情况汇报](需要添加链接)
 
 3. 名企open day
 - [走进平安集团](https://mp.weixin.qq.com/s?__biz=MzIxMDI3MDgyMA==&mid=2247485463&idx=1&sn=114617961c71dc764263257c4b5fea02&chksm=9766671ca011ee0a93a6b9239cca32f8c1541e966f7f25c964ab833966e3b17f2e432aeefa8c&mpshare=1&scene=1&srcid=12216TbHQSs3bpuwYF2430MS#rd)
