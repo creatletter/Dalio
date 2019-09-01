@@ -3,27 +3,27 @@ permalink: /posts/:title.html
 exclude:
   - README.md
 
-name: 精进之路
-host: https://creatletter.github.io/creatwords.github.io/
-desc: 只出一次错.
+name: Your Name's Site
+host: localhost
+desc: Some description of your site.
 
 custom:
     category:
-        default: 工作复盘
-        another: 学习复盘
+        default: Default Category
+        another: Another Category
     categories:
-      - name:  工作复盘
+      - name:  default
         title: Default Category
 
-      - name:  学习复盘
+      - name:  another
         title: Another Category
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
 
 meta:
     author:
-        name: Wang Junjie
-        email: jingmi_jie@outlook.com
+        name: Your Name
+        email: your-email@example.com
         disqus: your-disqus-short-name              # Disqus缩略标识
         gcse: 000346898720731947188:13h55x32l0y     # Google自定义搜索标识ID
         github: your-github-account                 # GitHub账号
