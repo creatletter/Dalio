@@ -6,8 +6,8 @@
 ### 工作：
 ##### 南科大-民生银行“新竹计划”
 1. 复盘：
- - [复盘：结束后对流程的复盘](https://creatletter.github.io/Dalio/blog/2018/11/24/%E6%96%B0%E7%AB%B9%E8%AE%A1%E5%88%92%E6%B5%81%E7%A8%8B%E5%A4%8D%E7%9B%98/)
- - [复盘：顾全大局——新竹计划第二期后的教训](https://creatletter.github.io/Dalio/%E5%B7%A5%E4%BD%9C%E5%A4%8D%E7%9B%98/2018/11/27/%E9%A1%BE%E5%85%A8%E5%A4%A7%E5%B1%80-%E6%96%B0%E7%AB%B9%E8%AE%A1%E5%88%92%E7%AC%AC%E4%BA%8C%E6%9C%9F%E8%AF%BE%E7%A8%8B%E5%A4%8D%E7%9B%98/)
+ - [结束后对流程的复盘](https://creatletter.github.io/Dalio/blog/2018/11/24/%E6%96%B0%E7%AB%B9%E8%AE%A1%E5%88%92%E6%B5%81%E7%A8%8B%E5%A4%8D%E7%9B%98/)
+ - [顾全大局——新竹计划第二期后的教训](https://creatletter.github.io/Dalio/%E5%B7%A5%E4%BD%9C%E5%A4%8D%E7%9B%98/2018/11/27/%E9%A1%BE%E5%85%A8%E5%A4%A7%E5%B1%80-%E6%96%B0%E7%AB%B9%E8%AE%A1%E5%88%92%E7%AC%AC%E4%BA%8C%E6%9C%9F%E8%AF%BE%E7%A8%8B%E5%A4%8D%E7%9B%98/)
 2. 成果
  - [“新竹计划合作项目书”](https://creatletter.github.io/Dalio/%E5%B7%A5%E4%BD%9C%E5%A4%8D%E7%9B%98/2018/11/24/%E9%A1%B9%E7%9B%AE%E8%AE%A1%E5%88%92%E4%B9%A6/)
 3. 历次推文
@@ -29,5 +29,4 @@
  
 ### 生活
  - [大思路不清晰易导致生活混乱](https://creatletter.github.io/Dalio/%E7%94%9F%E6%B4%BB%E5%A4%8D%E7%9B%98/2018/11/24/%E5%A4%A7%E6%80%9D%E8%B7%AF%E6%B7%B7%E4%B9%B1/)
- - [提前理清思路避免陷入细节](https://creatletter.github.io/Dalio/%E7%94%9F%E6%B4%BB%E5%A4%8D%E7%9B%98/2019/01/03/%E6%8F%90%E5%89%8D%E7%90%86%E6%B8%85%E6%80%9D%E8%B7%AF%E4%BB%A5%E9%81%BF%E5%85%8D%E9%99%B7%E5%85%A5%E7%BB%86%E8%8A%82/)
  - [静下心来才能踏实前行](https://creatletter.github.io/Dalio/%E7%94%9F%E6%B4%BB%E5%A4%8D%E7%9B%98/2019/01/24/%E9%9D%99%E4%B8%8B%E5%BF%83%E6%9D%A5%E8%B8%8F%E5%AE%9E%E5%89%8D%E8%A1%8C/)
