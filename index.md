@@ -17,8 +17,7 @@
   - [结业典礼](https://mp.weixin.qq.com/s?__biz=MzIxMDI3MDgyMA==&mid=2247485467&idx=1&sn=7670b9210f8eab76c60b4b5b95dd9da5&chksm=97666710a011ee067a485164a9e49533719f2a22aa8f3f615cce8c5c95d59efc33b7591d7687&mpshare=1&scene=1&srcid=1221bkKyctIgHdSHMFAE0JGd#rd)
 
 ##### 南科大-招商银行职业coach团
- - 
- - [中期情况汇报](https://creatletter.github.io/Dalio/%E5%B7%A5%E4%BD%9C%E5%A4%8D%E7%9B%98/2019/06/25/%E6%8B%9B%E8%A1%8C%E6%83%85%E5%86%B5%E6%B1%87%E6%8A%A5/接)
+ - [中期情况汇报](https://creatletter.github.io/Dalio/%E5%B7%A5%E4%BD%9C%E5%A4%8D%E7%9B%98/2019/06/25/%E6%8B%9B%E8%A1%8C%E6%83%85%E5%86%B5%E6%B1%87%E6%8A%A5/)
 
 ##### 名企open day
  - [反思：在做中学](https://creatletter.github.io/Dalio/%E5%B7%A5%E4%BD%9C%E5%A4%8D%E7%9B%98/2018/12/14/%E5%9C%A8%E5%81%9A%E4%B8%AD%E5%AD%A6-%E4%B8%80%E5%88%87%E7%BB%93%E6%9D%9F%E5%90%8E/)
